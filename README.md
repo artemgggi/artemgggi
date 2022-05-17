@@ -1,5 +1,6 @@
 ### Hi there 👋
--
+"-"
+<b>Technologies:</b>
 ![alt text](https://img.shields.io/badge/java-%20-green)
 
 <!--
