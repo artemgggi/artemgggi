@@ -1,5 +1,4 @@
 ### Hello There 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemgggi&layout=compact)](https://github.com/artemgggi/github-readme-stats)
 
 :computer:<b>Technologies:</b>
 
