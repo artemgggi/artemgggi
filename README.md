@@ -1,4 +1,5 @@
-Hi,My name is Artem, 23 y.o
+Hi, My name is Artem, 23 y.o
+
 :computer:<b>Technologies:</b>
 
 ![alt text](https://img.shields.io/badge/java-%20-green)
