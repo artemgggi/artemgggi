@@ -2,9 +2,9 @@ Hi, My name is Artem, 23 y.o
 
 :computer:<b>Main Technologies:</b>
 
-![alt text](https://img.shields.io/badge/java-%20-green)
-![alt text](https://img.shields.io/badge/-PostgreSQL-green)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Spring-green)
+![alt text](https://img.shields.io/badge/-PostgreSQL-green)
 
 
 
