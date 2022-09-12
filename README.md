@@ -6,6 +6,8 @@ Hi, My name is Artem, 23 y.o
 ![alt text](https://img.shields.io/badge/-Spring-green)
 ![alt text](https://img.shields.io/badge/-PostgreSQL-green)
 
+![](https://komarev.com/ghpvc/?username=artemgggi)
+
 
 
 
