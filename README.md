@@ -1,6 +1,6 @@
-Hi, My name is Artem, 23 y.o
+Hi, My name is Artem
 
-:computer:<b>Main Technologies:</b>
+:computer:<b>Technologies:</b>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Spring-green)
