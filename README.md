@@ -8,6 +8,8 @@ Hi, My name is Artem
 
 ![](https://komarev.com/ghpvc/?username=artemgggi)
 
+![](https://www.codewars.com/users/artemgggi/badges/micro)
+
 
 
 
