@@ -7,7 +7,6 @@ Hi, My name is Artem
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![](https://www.codewars.com/users/artemgggi/badges/micro)
-
 ![](https://komarev.com/ghpvc/?username=artemgggi)
 
 
