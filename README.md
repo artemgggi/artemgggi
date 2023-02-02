@@ -1,4 +1,4 @@
-Hi, My name is Artem
+Hi
 
 :computer:<b>Technologies:</b>
 
